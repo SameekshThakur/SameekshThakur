@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sameeksh Thakur</h1>
-<h3 align="center">Passionate Frontend Developer with a keen eye for user-centric design and a knack for transforming creative ideas into stunning, functional web applications.</h3>
+<h3 align="center">Passionate Full Stack Developer with a keen eye for user-centric design and a knack for transforming creative ideas into stunning, functional web applications.</h3>
 <img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameekshthakur&label=Profile%20views&color=0e75b6&style=flat" alt="sameekshthakur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thakursameeksh" target="blank"><img src="https://img.shields.io/twitter/follow/thakursameeksh?logo=twitter&style=for-the-badge" alt="thakursameeksh" /></a> </p>
 
-- 🌱 I’m currently learning **Web Design, TypeScript & React.js**
+- 🌱 I’m currently learning **System Design, C#.Net, React.js, & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://st-portfolio-app.netlify.app](https://st-portfolio-app.netlify.app)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Sameeksh](https://hashnode.com/@Sameeksh)
 
-- 💬 Ask me about **Html5, Css3, Sass, React**
+- 💬 Ask me about **JavaScript, C#, React, MySQL**
 
 - 📫 How to reach me **sameekshthakur1457@gmail.com**
 
